@@ -5,8 +5,7 @@
 
 ###### Research project where the premise is set out in the *Task Sheet*.
 
-###### 1. *Recommending a Bolt Supplier*: You are interested in purchasing bolts from different suppliers and have obtained and tested samples of 200 bolts from three suppliers: Allnutt, Boltzman, Coachers. You have tested these in your new bolt testing machine, purchased after you had discovered your old bolt testing machine was performing erratically. (For the purposes of this question, you are safe to assume that the new machine works perfectly and that its results are in MPa.) 
-###### 1.1 On the basis of the measurements recorded in Bolts.csv, which supplier (if any) would you recommend, and why?
+###### 1. *Recommending a Bolt Supplier*: You are interested in purchasing bolts from different suppliers and have obtained and tested samples of 200 bolts from three suppliers: Allnutt, Boltzman, Coachers. You have tested these in your new bolt testing machine, purchased after you had discovered your old bolt testing machine was performing erratically. (For the purposes of this question, you are safe to assume that the new machine works perfectly and that its results are in MPa.) On the basis of the measurements recorded in Bolts.csv, which supplier (if any) would you recommend, and why?
 
 
 
