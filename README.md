@@ -3,7 +3,7 @@
 
 #### Overview
 
-###### Research project where the premise is set out in the *Task Sheet*.
+Research project where the premise is set out in the *Task Sheet*.
 
 1. Recommending a Bolt Supplier:
 2. Changes in Air Quality Over Time:
