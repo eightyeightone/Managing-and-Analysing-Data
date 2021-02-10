@@ -1,7 +1,7 @@
 # Managing and Analysing Data
 ###### Queensland University Of Technology Project: EGH404 Research in Engineering Practice, completed in Semester 2 of 2019 (22 July - 25 October).
 
-#### Overview.
+#### Overview
 
 ###### Research project where the premise is set out in the *Task Sheet*.
 
